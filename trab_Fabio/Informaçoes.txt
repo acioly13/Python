@@ -1,0 +1,6 @@
+Estrutura de Dados 2
+Aluno: João Pedro F Acioly
+Matricula: 201921070
+
+Aplicativo que recebe dados guarda em uma lista, salva em um texto para
+ser usado em algoritmos de ordenação
