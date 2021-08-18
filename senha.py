@@ -16,4 +16,4 @@ while teste != senha:
     x += 1
 fim = time.time()
 print(f'Tempo de execução: {fim - inicio}')
-print(x)
+print(f'Tentativas: {x}')
