@@ -25,7 +25,5 @@ elif escolha == 2:
         z = int(input('Adicionar mais competidores(0)  Voltar(1): '))
 
 print(corrida)
-
 for competidor, tempo in corrida.items():
     print(competidor + ': ' + str(tempo))
-
