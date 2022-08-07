@@ -22,7 +22,6 @@ pessoas.append(p4)
 print(f'Nome: {p1.get_nome()}')
 print(f'Idade: {p1.get_idade()}')
 
-
 for pessoa in pessoas:
     print(pessoa.get_nome())
 

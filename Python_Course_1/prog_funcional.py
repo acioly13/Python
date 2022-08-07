@@ -14,10 +14,7 @@ def fatorial(num):
 
 fatorial_2 = lambda num: num * fatorial(num - 1) if num > 0 else 1
 
-
 lista = [1, 2, 3]
 m = map(lambda x: x ** 2, lista)
 for i in m:
     print(i)
-
-
