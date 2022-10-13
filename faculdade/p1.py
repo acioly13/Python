@@ -9,7 +9,7 @@ class Pilha:
         self.__itens.append(item)
 
     def pop(self):  # remove o elemento do topo
-        if self.isEmpty() == False:
+        if not self.isEmpty():
             self.__itens.pop()
 
     def top(self):  # retorna o elemento do topo
@@ -70,7 +70,7 @@ nomes = ['willian', 'george', 'andre',
          'aurora', 'wilson', 'aurora',
          'andre', 'alice', 'marcel',
          'acioly', 'alice', 'vinicius',
-         'alice',    'aurora', 'wilson',
+         'alice', 'aurora', 'wilson',
          'wilson', 'pipstar', 'george',
          'phillip', 'wilson', 'willson',
          'ted', 'pipstar']
