@@ -1,4 +1,5 @@
 # Validador CPF
+# Fazendo as importações necessarias, Precisa do PySimpleGUI, tkinter
 import PySimpleGUI as sg
 import sys
 
@@ -61,8 +62,8 @@ class CPF:
             return False
 
 
-# Usando a biblioteca de interface  PySimpleGUI como tema DarkAmber
-sg.theme('DarkAmber')
+# Usando a biblioteca de interface  PySimpleGUI
+sg.theme('DarkTanBlue')
 layout = [
     [sg.Text('Validador de CPF', size=(30, 1), justification='center', font=("Helvetica", 25), relief=sg.RELIEF_RIDGE)],
     [sg.Text('Digite apenas os numeros')],
@@ -80,7 +81,8 @@ while True:
     if event == 'Validar':
         cpf = CPF(values[0])
         if cpf.valida_cpf():
-            sg.popup('CPF Válido')
+            sg.popup('CPF Válido',
+                     'Você digitou os numeros corretamente')
         else:
             sg.popup('CPF Inválido',
                      'Verifique se Digitou apenas os numeros corretamente')
