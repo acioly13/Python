@@ -51,30 +51,8 @@
       <recent name="$PROJECT_DIR$/codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sentence_smash">
-    <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Course_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Course_1/gui.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="remove_space" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.remove_char">
+    <configuration name="convert_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +65,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/remove_space.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/convert_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="digital_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +87,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/rps.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/digital_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sentence_smash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="names_greetings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/sentence_smash.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/names_greetings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="playing_banjo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +131,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/sum_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/playing_banjo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars/remove_char.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sentence_smash" />
-        <item itemvalue="Python.remove_space" />
-        <item itemvalue="Python.sum_numbers" />
-        <item itemvalue="Python.rps" />
-        <item itemvalue="Python.gui" />
+        <item itemvalue="Python.remove_char" />
+        <item itemvalue="Python.convert_name" />
+        <item itemvalue="Python.names_greetings" />
+        <item itemvalue="Python.digital_number" />
+        <item itemvalue="Python.playing_banjo" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,11 @@
       <workItem from="1681212876527" duration="2108000" />
       <workItem from="1681264032254" duration="3273000" />
       <workItem from="1681300982720" duration="709000" />
-      <workItem from="1681469625451" duration="1990000" />
+      <workItem from="1681469625451" duration="6323000" />
+      <workItem from="1681499383684" duration="82000" />
+      <workItem from="1681729487759" duration="599000" />
+      <workItem from="1681747111967" duration="3000" />
+      <workItem from="1681758962914" duration="3705000" />
     </task>
     <servers />
   </component>
@@ -223,39 +227,54 @@
     <SUITE FILE_PATH="coverage/Python$boolean_to_string.coverage" NAME="boolean_to_string Coverage Results" MODIFIED="1679613638897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$num_roman.coverage" NAME="num_roman Coverage Results" MODIFIED="1679506100733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$remove_space.coverage" NAME="remove_space Coverage Results" MODIFIED="1681471333565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$k_means.coverage" NAME="k_means Coverage Results" MODIFIED="1679193377754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
+    <SUITE FILE_PATH="coverage/Python$sentence_smash.coverage" NAME="sentence_smash Coverage Results" MODIFIED="1681471782121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$sec_to_hms.coverage" NAME="sec_to_hms Coverage Results" MODIFIED="1678982162599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$game.coverage" NAME="game Coverage Results" MODIFIED="1679259388005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
     <SUITE FILE_PATH="coverage/Python$people_bus.coverage" NAME="people_bus Coverage Results" MODIFIED="1679666775004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$longest.coverage" NAME="longest Coverage Results" MODIFIED="1680089716491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$turn_neg.coverage" NAME="turn_neg Coverage Results" MODIFIED="1681759044580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$drink_water.coverage" NAME="drink_water Coverage Results" MODIFIED="1681472882819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$how_you_doing.coverage" NAME="how_you_doing Coverage Results" MODIFIED="1679572592762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$ends_with.coverage" NAME="ends_with Coverage Results" MODIFIED="1680607002870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$remove_char.coverage" NAME="remove_char Coverage Results" MODIFIED="1681761563450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$unique_element.coverage" NAME="unique_element Coverage Results" MODIFIED="1679570733813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$break_camel_case.coverage" NAME="break_camel_case Coverage Results" MODIFIED="1681479451636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$min_array.coverage" NAME="min_array Coverage Results" MODIFIED="1681213708976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$validate_pin.coverage" NAME="validate_pin Coverage Results" MODIFIED="1681759241087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$return_hello_world.coverage" NAME="return_hello_world Coverage Results" MODIFIED="1679571741683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$digital_number.coverage" NAME="digital_number Coverage Results" MODIFIED="1681760606040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$listo_to_binary.coverage" NAME="listo_to_binary Coverage Results" MODIFIED="1678981364399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$camel_case2.coverage" NAME="camel_case2 Coverage Results" MODIFIED="1679571384592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$detect_pangram.coverage" NAME="detect_pangram Coverage Results" MODIFIED="1679614075074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$playing_banjo.coverage" NAME="playing_banjo Coverage Results" MODIFIED="1681760400020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$camel_case.coverage" NAME="camel_case Coverage Results" MODIFIED="1678829999052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$find_average.coverage" NAME="find_average Coverage Results" MODIFIED="1681480367074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$padded_number.coverage" NAME="padded_number Coverage Results" MODIFIED="1681759623838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$opposite.coverage" NAME="opposite Coverage Results" MODIFIED="1679610421452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$game_1.coverage" NAME="game_1 Coverage Results" MODIFIED="1681264103934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
+    <SUITE FILE_PATH="coverage/Python$high_score.coverage" NAME="high_score Coverage Results" MODIFIED="1679569935047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$johny.coverage" NAME="johny Coverage Results" MODIFIED="1681760048933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$k_means.coverage" NAME="k_means Coverage Results" MODIFIED="1679193377754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
+    <SUITE FILE_PATH="coverage/Python$game.coverage" NAME="game Coverage Results" MODIFIED="1679259388005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
+    <SUITE FILE_PATH="coverage/Python$convert_name.coverage" NAME="convert_name Coverage Results" MODIFIED="1681761251131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$cifra_cesar.coverage" NAME="cifra_cesar Coverage Results" MODIFIED="1679194019293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
     <SUITE FILE_PATH="coverage/Python$rps.coverage" NAME="rps Coverage Results" MODIFIED="1681470350206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$bool_str.coverage" NAME="bool_str Coverage Results" MODIFIED="1681127091570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$sum_numbers.coverage" NAME="sum_numbers Coverage Results" MODIFIED="1681470975274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$longest.coverage" NAME="longest Coverage Results" MODIFIED="1680089716491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$double_int.coverage" NAME="double_int Coverage Results" MODIFIED="1681759862685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$names_greetings.coverage" NAME="names_greetings Coverage Results" MODIFIED="1681761057608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$number_inverse_array.coverage" NAME="number_inverse_array Coverage Results" MODIFIED="1680006959451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$maskify.coverage" NAME="maskify Coverage Results" MODIFIED="1678830595512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$gui.coverage" NAME="gui Coverage Results" MODIFIED="1681267254962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
-    <SUITE FILE_PATH="coverage/Python$how_you_doing.coverage" NAME="how_you_doing Coverage Results" MODIFIED="1679572592762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$ends_with.coverage" NAME="ends_with Coverage Results" MODIFIED="1680607002870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$test_pygame.coverage" NAME="test_pygame Coverage Results" MODIFIED="1679259273259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
-    <SUITE FILE_PATH="coverage/Python$unique_element.coverage" NAME="unique_element Coverage Results" MODIFIED="1679570733813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$min_array.coverage" NAME="min_array Coverage Results" MODIFIED="1681213708976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
+    <SUITE FILE_PATH="coverage/Python$expanded_form.coverage" NAME="expanded_form Coverage Results" MODIFIED="1681478854342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$uniq_number.coverage" NAME="uniq_number Coverage Results" MODIFIED="1681213909477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$split_two_pair.coverage" NAME="split_two_pair Coverage Results" MODIFIED="1679498262967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$contador_iguais.coverage" NAME="contador_iguais Coverage Results" MODIFIED="1680089207243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$return_hello_world.coverage" NAME="return_hello_world Coverage Results" MODIFIED="1679571741683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$count_sheep.coverage" NAME="count_sheep Coverage Results" MODIFIED="1680005949224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$listo_to_binary.coverage" NAME="listo_to_binary Coverage Results" MODIFIED="1678981364399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$friends.coverage" NAME="friends Coverage Results" MODIFIED="1681127543338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$camel_case2.coverage" NAME="camel_case2 Coverage Results" MODIFIED="1679571384592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$detect_pangram.coverage" NAME="detect_pangram Coverage Results" MODIFIED="1679614075074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$num_str.coverage" NAME="num_str Coverage Results" MODIFIED="1681126238447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$is_isogram.coverage" NAME="is_isogram Coverage Results" MODIFIED="1679613211428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$camel_case.coverage" NAME="camel_case Coverage Results" MODIFIED="1678829999052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$opposite.coverage" NAME="opposite Coverage Results" MODIFIED="1679610421452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$game_1.coverage" NAME="game_1 Coverage Results" MODIFIED="1681264103934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
     <SUITE FILE_PATH="coverage/Python$test_tk.coverage" NAME="test_tk Coverage Results" MODIFIED="1681265116731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
-    <SUITE FILE_PATH="coverage/Python$high_score.coverage" NAME="high_score Coverage Results" MODIFIED="1679569935047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$pesquisa_lista.coverage" NAME="pesquisa_lista Coverage Results" MODIFIED="1678965784638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
   </component>
 </project>
