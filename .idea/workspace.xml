@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7f65b00-66cc-47d8-abb8-ed46434cc7d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Course_1/arquivo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e7f65b00-66cc-47d8-abb8-ed46434cc7d6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,6 +224,7 @@
       <workItem from="1682335646816" duration="3403000" />
       <workItem from="1682383996443" duration="2284000" />
       <workItem from="1682475636359" duration="3100000" />
+      <workItem from="1682479303788" duration="113000" />
     </task>
     <servers />
   </component>
