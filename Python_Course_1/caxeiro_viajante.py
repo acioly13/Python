@@ -1,4 +1,5 @@
 # # Caxeiro Viajante
+# # Tentativas de fazer na mão e usando api do google
 # import numpy as np
 # from itertools import permutations
 #
@@ -90,7 +91,10 @@
 # print("Matriz de distância:")
 # for row in dist_matrix:
 #     print(row)
-# Caixeiro Viajante
+
+
+
+# Caixeiro Viajante usando API free
 import osmnx as ox
 from scipy.spatial import distance_matrix
 from itertools import permutations
