@@ -40,6 +40,9 @@ pos_missile = [None, None]
 # Flag do missel
 flag_missile = False
 
+# Tempo restante em segundos
+time_remaining = 60
+
 
 # Atualiza os inimigos
 def update_enemies():
@@ -56,26 +59,40 @@ def update_missile():
     if flag_missile:
         # Verifica se passou do limite da tela
         if pos_missile[1] < -img_missile.get_rect().size[1]:
-            flag_missile = True
+            flag_missile = False
         else:
             pos_missile[1] -= 1
 
 
-# programa uma tarefa para ser executada a cada 0.01 segundos
+# Atualiza o tempo restante
+def update_time_remaning():
+    global time_remaning_text, time_remaining
+    if time_remaining > 0:
+        time_remaining -= 1
+        time_remaning_text = font.render("Tempo: " + str(time_remaining), True, red)
+
+
+# programa uma tarefa para ser executada a cada x segundos
 schedule.every(0.01).seconds.do(update_enemies)
 schedule.every(0.01).seconds.do(update_missile)
+schedule.every(1).seconds.do(update_time_remaning)
 
 # Pontuação do jogo
 score = 0
 font = pygame.font.Font(None, 30)
 score_text = font.render("Score: " + str(score), True, red)
 
+# Tempo restante
+font_time = pygame.font.Font(None, 30)
+time_remaning_text = font_time.render("Tempo: " + str(time_remaining), True, red)
+
 
 # Atualiza a pontuação
 def update_score(decrement=False):
     global score_text, score
-    score = (score - 1) if decrement else (score + 1)
-    score_text = font.render("Score: " + str(score), True, red)
+    if time_remaining > 0:
+        score = (score - 1) if decrement else (score + 1)
+        score_text = font.render("Score: " + str(score), True, red)
 
 
 # Resera a posição do inimigo
@@ -137,6 +154,7 @@ while main_loop:
             update_score()  # incrementa a pontuação
 
     window.blit(score_text, (10, 10))
+    window.blit(time_remaning_text, (680, 10))
     pygame.display.flip()
 
 # Finaliza o Pygame

@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7f65b00-66cc-47d8-abb8-ed46434cc7d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Course_1/space_invaders/space_invaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Course_1/space_invaders/space_invaders.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +229,7 @@
       <workItem from="1682475636359" duration="3100000" />
       <workItem from="1682479303788" duration="113000" />
       <workItem from="1682508252844" duration="1447000" />
-      <workItem from="1682513656698" duration="7335000" />
+      <workItem from="1682513656698" duration="9662000" />
     </task>
     <servers />
   </component>
@@ -269,7 +270,7 @@
     <SUITE FILE_PATH="coverage/Python$camel_case.coverage" NAME="camel_case Coverage Results" MODIFIED="1678829999052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$find_average.coverage" NAME="find_average Coverage Results" MODIFIED="1681480367074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$padded_number.coverage" NAME="padded_number Coverage Results" MODIFIED="1681759623838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
-    <SUITE FILE_PATH="coverage/Python$space_invaders.coverage" NAME="space_invaders Coverage Results" MODIFIED="1682522390587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1/space_invaders" />
+    <SUITE FILE_PATH="coverage/Python$space_invaders.coverage" NAME="space_invaders Coverage Results" MODIFIED="1682526484179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1/space_invaders" />
     <SUITE FILE_PATH="coverage/Python$opposite.coverage" NAME="opposite Coverage Results" MODIFIED="1679610421452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codewars" />
     <SUITE FILE_PATH="coverage/Python$game_1.coverage" NAME="game_1 Coverage Results" MODIFIED="1681264103934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Course_1" />
     <SUITE FILE_PATH="coverage/Python$high_score.coverage" NAME="high_score Coverage Results" MODIFIED="1679569935047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
